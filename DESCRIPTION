@@ -9,7 +9,7 @@ Description: This is a convenience package for those stuck with R
     versions lower than 3.0 but want the functions introduced in 3.0
 Suggests:
     future
-License: GPL-2
+License: GPL-3
 Collate:
     'provideDimnames.R'
     'rep_len.R'

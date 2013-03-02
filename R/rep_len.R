@@ -1,4 +1,3 @@
-
 #' Replicate Elements of Vectors and Lists
 #' 
 #' A simplified version of rep for when you want to repeat
