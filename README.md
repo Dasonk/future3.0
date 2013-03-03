@@ -2,6 +2,9 @@ future3.0
 ==========
 
 The `future3.0` package is a convenience package for those stuck with R versions lower than 2.15 but want the functions introduced in 3.0.  If you are using a version of R that is older than 3.0 you would probably want to install the other 'future' packages as well to get the functions provided in those releases of R as well.
+
+This package is incomplete at the moment and not all functions that
+will be introduced have been ported.
     
 ## Installation
 
